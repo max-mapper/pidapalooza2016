@@ -51,9 +51,9 @@ Reykjavik, Iceland
 - Self healing links
 - Faster downloads, less bandwidth costs
 - Avoids unnecessary dependency on cloud services
+- Enables "multi-homed" data
 - Endangered data list
 - Dat Project: "Identifying data and digitally signing data sets"
-
 - https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf
 - http://www.bittorrent.org/beps/bep_0044.html
 - https://github.com/datproject/docs/blob/2074f99641956dad041837828af141b552633a4c/papers/dat-paper.md#24-kademlia-distributed-hash-table
@@ -65,6 +65,7 @@ Reykjavik, Iceland
 - Basis of the UK Governments open data infrastructure plan
 - Enables third party trust
 - Blockchains without the need for economic incentives
+- Modeled after SSL certificate infrastructure
 - https://www.certificate-transparency.org/log-proofs-work
 - https://www.gov.uk/government/publications/registers/registers
 - https://gds.blog.gov.uk/2015/09/01/registers-authoritative-lists-you-can-trust/
